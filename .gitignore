@@ -1,0 +1,13 @@
+# Compiled files
+*.o
+*.out
+riscv_simulator
+
+# Output files
+RFResult.txt
+StateResult_SS.txt
+SS_DMEMResult.txt
+
+# IDE specific files
+.vscode/
+.idea/
