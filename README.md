@@ -61,10 +61,3 @@ Example:
 4. Inspect `RFResult.txt` to see register updates.
 5. Inspect `*_DMEMResult.txt` to see final memory state.
 
-## Future Enhancements
-- Add support for more RISC-V instructions.
-- Implement branch prediction for improved performance.
-- Extend to superscalar or out-of-order pipeline simulation.
-
----
-Developed as part of **Computer Architecture Project - Phase 2**.
